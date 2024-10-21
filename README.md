@@ -15,3 +15,10 @@
 - 知的好奇心駆動開発
 - Code is art
 - 破壊的学習
+
+## 成果物リポジトリ
+- https://github.com/rako/PrivateLibrary
+- https://github.com/rako/lessonwebapp
+- [WIP] https://github.com/rako/atcrategraphpic
+- [ハッカソン] https://github.com/orgs/Reco-Intern-D/repositories
+- [ハッカソン] https://github.com/yataidokoyanen-com/yataidokoyanen
