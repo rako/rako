@@ -22,3 +22,6 @@
 - [WIP] https://github.com/rako/atcrategraphpic
 - [ハッカソン] https://github.com/orgs/Reco-Intern-D/repositories
 - [ハッカソン] https://github.com/yataidokoyanen-com/yataidokoyanen
+
+## 日々のやった事や分かった事
+https://github.com/rako/TIL
