@@ -6,9 +6,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rako&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rako&theme=gruvbox&utcOffset=9)
 
-## AtCoder
-
+### AtCoder
 [![Rating](https://badgen.org/img/atcoder/rako1/rating/algorithm?style=flat)](https://atcoder.jp/users/rako1?contestType=algo)
+### Zenn
+[![Articles](https://badgen.org/img/zenn/rako0x1/articles?style=flat)](https://zenn.dev/rako0x1)
+[![Likes](https://badgen.org/img/zenn/rako0x1/likes?style=flat)](https://zenn.dev/rako0x1)
 
 ## 最近の好きな言葉
 
@@ -17,7 +19,7 @@
 - 破壊的学習
 
 ## 成果物リポジトリ
-- https://github.com/rako/PrivateLibrary
+- [WIP]https://github.com/rako/PrivateLibrary
 - https://github.com/rako/lessonwebapp
 - [WIP] https://github.com/rako/atcrategraphpic
 - [ハッカソン] https://github.com/orgs/Reco-Intern-D/repositories
