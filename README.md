@@ -25,6 +25,9 @@
 - Go
 - Remix
 
+- リファクタリング
+- ソフトウェアアーキテクチャ
+
 ## 成果物リポジトリ
 - [WIP]https://github.com/rako/PrivateLibrary
 - https://github.com/rako/lessonwebapp
