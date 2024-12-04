@@ -17,6 +17,13 @@
 - 知的好奇心駆動開発
 - Code is art
 - 破壊的学習
+- シンプルイズベスト
+
+## 好きな技術
+- CLI
+- Vim
+- Go
+- Remix
 
 ## 成果物リポジトリ
 - [WIP]https://github.com/rako/PrivateLibrary
