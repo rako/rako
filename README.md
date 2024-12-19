@@ -23,6 +23,7 @@
 - CLI
 - Vim
 - Go
+- シェル芸
 
 ## 好きなもの
 - リファクタリング
@@ -30,9 +31,9 @@
 - ソフトウェアアーキテクチャ
 
 ## 成果物リポジトリ
-- [WIP]https://github.com/rako/PrivateLibrary
-- https://github.com/rako/lessonwebapp
-- [WIP] https://github.com/rako/atcrategraphpic
+- [WIP] https://github.com/rako/PrivateLibrary
+- https://github.com/rako/lesson-web-app
+- [WIP] https://github.com/rako/atc-rate-graph-pic
 - [ハッカソン] https://github.com/orgs/Reco-Intern-D/repositories
 - [ハッカソン] https://github.com/yataidokoyanen-com/yataidokoyanen
 
