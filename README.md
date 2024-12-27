@@ -31,6 +31,13 @@
 - シェル芸
 - 低レイヤー
 
+## 興味あるもの
+- Rust
+- Zig
+- ブラウザ
+- 広告ブロック
+- エミュレータ
+
 ## 成果物リポジトリ
 - [WIP] https://github.com/rako/PrivateLibrary
 - https://github.com/rako/lesson-web-app
