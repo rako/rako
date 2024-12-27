@@ -13,7 +13,6 @@
 [![Likes](https://badgen.org/img/zenn/rako0x1/likes?style=flat)](https://zenn.dev/rako0x1)
 
 ## 最近の好きな言葉
-
 - 知的好奇心駆動開発
 - Code is art
 - 破壊的学習
@@ -30,6 +29,8 @@
 - ソフトウェアアーキテクチャ
 - シェル芸
 - 低レイヤー
+- ドキュメント整備
+- アスキーアート
 
 ## 興味あるもの
 - Rust
