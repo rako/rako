@@ -40,12 +40,14 @@
 - エミュレータ
 - データ可視化
 
-## 成果物リポジトリ
-- [WIP] https://github.com/rako/PrivateLibrary
+## 成果物リポジトリ（完成済み）
 - https://github.com/rako/lesson-web-app
-- [WIP] https://github.com/rako/atc-rate-graph-pic
 - [ハッカソン] https://github.com/orgs/Reco-Intern-D/repositories
 - [ハッカソン] https://github.com/yataidokoyanen-com/yataidokoyanen
 
-## 日々のやった事や分かった事
+## 成果物リポジトリ（未完成）
+- https://github.com/rako/PrivateLibrary
+- https://github.com/rako/atc-rate-graph-pic
+
+## 日々の中でした事や分かった事
 https://github.com/rako/TIL
