@@ -39,6 +39,7 @@
 - 広告ブロック
 - エミュレータ
 - データ可視化
+- 検索エンジン
 
 ## 成果物リポジトリ（完成済み）
 - https://github.com/rako/lesson-web-app
@@ -48,6 +49,7 @@
 ## 成果物リポジトリ（未完成）
 - https://github.com/rako/PrivateLibrary
 - https://github.com/rako/atc-rate-graph-pic
+- https://github.com/rako/id-checker
 
 ## 日々の中でした事や分かった事
 https://github.com/rako/TIL
