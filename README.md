@@ -42,14 +42,17 @@
 - 検索エンジン
 
 ## 成果物リポジトリ（完成済み）
-- https://github.com/rako/lesson-web-app
-- [ハッカソン] https://github.com/orgs/Reco-Intern-D/repositories
-- [ハッカソン] https://github.com/yataidokoyanen-com/yataidokoyanen
+- 本棚アプリケーション: https://github.com/rako/shelfport
+- 講義で作成したWebSocketを用いたチャットやペイントが出来るアプリ: https://github.com/rako/lesson-web-app
+- ハッカソン1: https://github.com/orgs/Reco-Intern-D/repositories
+- ハッカソン2: https://github.com/yataidokoyanen-com/yataidokoyanen
 
 ## 成果物リポジトリ（未完成）
-- https://github.com/rako/PrivateLibrary
 - https://github.com/rako/atc-rate-graph-pic
 - https://github.com/rako/id-checker
+- https://github.com/rako/chatsreams
+- https://github.com/rako/twitch-block-user
+- https://github.com/rako/atgoder-cli
 
 ## 日々の中でした事や分かった事
 https://github.com/rako/TIL
