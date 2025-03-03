@@ -20,7 +20,7 @@
 - ターミナルはキャンバス
 
 ## 好きな技術
-- CLI
+- CLI, TUI
 - Vim
 - Go
 
@@ -32,6 +32,7 @@
 - 低レイヤー
 - ドキュメント整備
 - アスキーアート
+- Vimium
 
 ## 興味あるもの
 - Rust
@@ -42,11 +43,13 @@
 - データ可視化
 - 検索エンジン
 - 型システム
+- アクセシビリティ
 
 ## 成果物リポジトリ（完成済み）
 - 本棚アプリケーション: https://github.com/rako/shelfport
 - 講義で作成したWebSocketを用いたチャットやペイントが出来るアプリ: https://github.com/rako/lesson-web-app
 - Spotify APIを利用して、アーティストの検索を行って再生ができるDiscord Bot:  https://github.com/rako/spotify-discord-bot
+- YouTubeのチャンネルをWebSubに登録して新着動画をDiscordに通知を送るBot: https://github.com/rako/snowchime
 - 運動時のBPMに近い曲をSpotifyから入手し流すアプリ(ハッカソン1): https://github.com/orgs/Reco-Intern-D/repositories
 - お祭りの屋台を地図上で確認したり詳細な情報が知れるWebアプリ(ハッカソン2): https://github.com/yataidokoyanen-com/yataidokoyanen
 
@@ -61,4 +64,4 @@
 https://github.com/rako/TIL
 
 ## やってみたいことリスト
-- https://github.com/rako/todo
+https://github.com/rako/todo
